@@ -1,16 +1,13 @@
 # pocket
 
-A new Flutter project.
+A money tracking app using Flutter and Dart.
 
-## Getting Started
+Firebase is used as the backend for the app.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1691081658](https://github.com/sanjaytejays/pocket/assets/97805537/e33cc212-9468-4b17-b28f-a846a1a7b857)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1691081677](https://github.com/sanjaytejays/pocket/assets/97805537/8f4598ae-9266-4979-b305-d5a4f62b853a)
+
+
