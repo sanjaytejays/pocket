@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552662364822",
+    "project_id": "pocket-c5b29",
+    "storage_bucket": "pocket-c5b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552662364822:android:6f02dbbf996364b1e148b7",
+        "android_client_info": {
+          "package_name": "com.example.pocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552662364822-tsc5hisreqdihva388i6nr991gbgqt1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Q9daXHmEFrqYd09hNA75EBy867cbTwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552662364822-tsc5hisreqdihva388i6nr991gbgqt1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
